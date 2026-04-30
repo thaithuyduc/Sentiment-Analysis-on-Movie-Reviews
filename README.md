@@ -123,8 +123,8 @@ Key Results:
 - Compare models across all evaluation metrics
 - Identify best-performing model
 - Analyze trade-offs:
-- Performance vs training complexity
-- Simplicity vs representation power
+    - Performance vs training complexity
+    - Simplicity vs representation power
 
 ## Objective 7: Derive Insights from Sentiment Analysis
 
